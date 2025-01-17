@@ -1,7 +1,8 @@
 ## Hi there 👋
-####I'm currently learning programming as part of my Master's degree.
 
-####I am working on developing my personal financial tracking website.
+I'm currently learning programming as part of my Master's degree.
+
+I am working on developing my personal financial tracking website.
 <!--
 **armysmart10/armysmart10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
